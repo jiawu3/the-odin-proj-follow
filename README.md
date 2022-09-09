@@ -1,3 +1,3 @@
 # theOdinProject
 
-Following along the TOP cirriculum
+Following along the The Odin Project cirriculum
